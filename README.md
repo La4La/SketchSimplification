@@ -1,6 +1,6 @@
 # Sketch Simplification
 
-This is the successive work of "[lineart](https://github.com/La4La/lineart)".  
+This is my successive work of "[lineart](https://github.com/La4La/lineart)".  
 There are 2 models. The first one is the old one, and the second one could somehow clean up lines in notebooks or shawdows.
 
 ## Result Samples
